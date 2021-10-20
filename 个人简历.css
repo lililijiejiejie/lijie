@@ -1,0 +1,69 @@
+<title>个人简历</title>
+<style>
+*{ 
+//清除浏览器默认样式
+margin: 0; padding: 0; 
+}
+body{
+//宽度
+width:%100;
+//高度
+height:%100;
+//位置
+text-align:center;
+//背景色
+background-color:#333333;
+}
+  .divsecond{
+  text-align:center;
+  }
+ 
+.class1{
+width:400px;
+height:1000px;
+background-color:#666666;
+//元素向左浮动
+float:left;
+//字体颜色
+color :white;
+}
+ 
+.class2{
+height:950px;
+background-color:#FFFFFF;
+margin-left: 220px;
+text-align:left;
+color:black;
+}
+ 
+.class3{
+height:50px;
+background-color:#333333;
+color:white;
+}
+ 
+ 
+.class4{
+// 元素的上外边距
+margin-top:50px;
+}
+ul{
+margin:0; padding:0;
+    color:white;
+    //内边距区域中左边的宽度
+	padding-left: 100px;
+	text-align:left;
+}
+hr{
+height: 3px;
+ background-color: black; 
+ //边距
+ border: 0;
+}
+p{
+//font 元素中文本的尺寸大小。
+	font-size:20px;
+}
+</style>
+</head>
+<body>
